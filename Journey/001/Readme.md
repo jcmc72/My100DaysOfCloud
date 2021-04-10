@@ -1,4 +1,4 @@
-![alt text](https://github.com/jcmc72/100DaysOfCloud/blob/fdfa6878d5c19a3129fcf8409063b1bad50677d3/Journey/001/100day.jpg)
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/d011f4a64f8401b8f0351376c0cfa29c9c48bdac/Journey/001/100day.jpg)
 
 # DAY 1
 
@@ -25,7 +25,7 @@ Excel document --> (Journey/001/AWS-CCP-Resume.xlsx)
 
 ### Step 1 — Summary of Step
 
-AWS CPP ![alt text](https://github.com/jcmc72/100DaysOfCloud/blob/a2a435cc28416a595cc22fd67d3cdcd874a459c2/Journey/001/Aws-Ccp.jpeg)
+AWS CPP ![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/d011f4a64f8401b8f0351376c0cfa29c9c48bdac/Journey/001/Aws-Ccp.jpeg)
 
 ## ☁️ Cloud Outcome
 AWS CCP offers the knowledge and skills necessary for an effective general understanding of the AWS Cloud, regardless of the specific technical roles addressed by other AWS certifications.
