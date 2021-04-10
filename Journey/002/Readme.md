@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/jcmc72/100DaysOfCloud/blob/f5af3c2e667727b1a0c63d39b533a5e80a448a53/Journey/002/ec2-logo.png)
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/d04bfaf51892202d9da3bc37de190bc477a36723/Journey/002/ec2-logo.png)
 
 # DAY 2
 
