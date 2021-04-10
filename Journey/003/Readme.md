@@ -1,4 +1,4 @@
-![alt text](https://github.com/jcmc72/100DaysOfCloud/blob/fb07f0ede5097e6433af0fcf505e7e5e2772925e/Journey/003/ec2-spot-logo.jpg)
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/3b27fe5577fdf0b6c4c59fa9ad987e95d3f7c83a/Journey/003/ec2-spot-logo.jpg)
 
 # DAY 3
 
@@ -22,7 +22,7 @@ https://aws.amazon.com/ec2/?ec2-whats-new.sort-by=item.additionalFields.postDate
 4. In the tab "Step 3: Configure Instance Details"
     Under the section --> Advanced Details 
     Under the subsection --> "User data", enter the following script, (which creates an HTML page served by Apache):
-    ![alt text](https://github.com/jcmc72/100DaysOfCloud/blob/1da65dd5caea7c774b0b8da248df819782306ec2/Journey/003/Lab-003-EC2-Spot-Instance-010-Step3.png)    
+    ![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/3b27fe5577fdf0b6c4c59fa9ad987e95d3f7c83a/Journey/003/Lab-003-EC2-Spot-Instance-010-Step3.png)    
 5. Connect to the EC2 instance
 6. Verify the web server is up
 9. Create and publish a test page
@@ -31,10 +31,10 @@ https://aws.amazon.com/ec2/?ec2-whats-new.sort-by=item.additionalFields.postDate
 Launch and configure a EC2 Spot Instance in the Amazon cloud.
 	
 1. In the Saving summary, you will save a total of 70% as compared to on-demand instances.
-![alt text](https://github.com/jcmc72/100DaysOfCloud/blob/fb07f0ede5097e6433af0fcf505e7e5e2772925e/Journey/003/Lab-003-EC2-Spot-Instance-007-Savings-Summary.png)
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/3b27fe5577fdf0b6c4c59fa9ad987e95d3f7c83a/Journey/003/Lab-003-EC2-Spot-Instance-007-Savings-Summary.png)
 
 2. In the Pricing history, you can modifiy the instance type and data range, to verify the cost upfront.
-![alt text](https://github.com/jcmc72/100DaysOfCloud/blob/fb07f0ede5097e6433af0fcf505e7e5e2772925e/Journey/003/Lab-003-EC2-Spot-Instance-006-Pricing-History-03.png)
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/3b27fe5577fdf0b6c4c59fa9ad987e95d3f7c83a/Journey/003/Lab-003-EC2-Spot-Instance-006-Pricing-History-03.png)
 
 NOTE:
 * The script to creat a web page fail, but the web server is OK with his configuration.
