@@ -1,4 +1,4 @@
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/1bab79b386dc4009aa289b05c9ebd1c42fc9e7b9/Journey/004/Aws-Iam-Logo.webp)
 
 # DAY 4
 
@@ -28,10 +28,10 @@ https://aws.amazon.com/premiumsupport/knowledge-center/intro-elastic-ip-addresse
 Launch and configure a EC2 Instance and allocate an Elastic IP.
 	
 1. Web server with public IP.
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/d91dfba8a672f13f04630f514234f8616ea84604/Journey/004/Lab-004-EC2-Elastic-Ip-02.png)
 
 2. Web server with Elastic IP.
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/d91dfba8a672f13f04630f514234f8616ea84604/Journey/004/Lab-004-EC2-Elastic-Ip-07.png)
 
 ## Next Steps
 Day 5.
