@@ -40,7 +40,7 @@ AWS S3 upload object and configure public access
 ![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/e97f76b290565b42dd93892d27e9b8076404e47d/Journey/005/Lab-005-S3-Sample-Bucket-05.png)
 ![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/e97f76b290565b42dd93892d27e9b8076404e47d/Journey/005/Lab-005-S3-Sample-Bucket-06.png)
 ![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/e97f76b290565b42dd93892d27e9b8076404e47d/Journey/005/Lab-005-S3-Sample-Bucket-07.JPG)
-![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/e97f76b290565b42dd93892d27e9b8076404e47d/Journey/005/Lab-005-S3-Sample-Bucket-07.JPG)
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/b1001811bd47bf3feee5d94539c8fc3b25034914/Journey/005/Lab-005-S3-Sample-Bucket-08.png)
 ![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/e97f76b290565b42dd93892d27e9b8076404e47d/Journey/005/Lab-005-S3-Sample-Bucket-09.png)
 ![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/e97f76b290565b42dd93892d27e9b8076404e47d/Journey/005/Lab-005-S3-Sample-Bucket-10.JPG)
 
