@@ -1,4 +1,4 @@
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/e97f76b290565b42dd93892d27e9b8076404e47d/Journey/005/Aws-S3-Logo.png)
 
 # DAY 5
 
@@ -33,17 +33,16 @@ AWS S3 upload object and configure public access
 * Successfully change S3 object permissions.
 * Successfully create an S3 bucket policy.
 
-![alt text]()
-![alt text]()
-![alt text]()
-![alt text]()
-![alt text]()
-![alt text]()
-![alt text]()
-![alt text]()
-![alt text]()
-![alt text]()
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/e97f76b290565b42dd93892d27e9b8076404e47d/Journey/005/Lab-005-S3-Sample-Bucket-01.png)
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/e97f76b290565b42dd93892d27e9b8076404e47d/Journey/005/Lab-005-S3-Sample-Bucket-02.JPG)
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/e97f76b290565b42dd93892d27e9b8076404e47d/Journey/005/Lab-005-S3-Sample-Bucket-03.png)
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/e97f76b290565b42dd93892d27e9b8076404e47d/Journey/005/Lab-005-S3-Sample-Bucket-04.JPG)
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/e97f76b290565b42dd93892d27e9b8076404e47d/Journey/005/Lab-005-S3-Sample-Bucket-05.png)
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/e97f76b290565b42dd93892d27e9b8076404e47d/Journey/005/Lab-005-S3-Sample-Bucket-06.png)
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/e97f76b290565b42dd93892d27e9b8076404e47d/Journey/005/Lab-005-S3-Sample-Bucket-07.JPG)
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/e97f76b290565b42dd93892d27e9b8076404e47d/Journey/005/Lab-005-S3-Sample-Bucket-07.JPG)
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/e97f76b290565b42dd93892d27e9b8076404e47d/Journey/005/Lab-005-S3-Sample-Bucket-09.png)
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/e97f76b290565b42dd93892d27e9b8076404e47d/Journey/005/Lab-005-S3-Sample-Bucket-10.JPG)
 
 ## Next Steps
 Day 6.
