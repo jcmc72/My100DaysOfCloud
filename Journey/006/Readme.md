@@ -1,4 +1,4 @@
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/3df521a52baa5e021971f700c8dfedb369a4e29d/Journey/006/Aws-Ami.png)
 
 # DAY 6
 
@@ -26,9 +26,14 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html
 * You have successfully created an EC2 instance.
 * You have successfully created an image directly from that EC2 instance.
 
-![alt text]()
-![alt text]()
-![alt text]()
+Web server from EC2 instance
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/3df521a52baa5e021971f700c8dfedb369a4e29d/Journey/006/Lab-006-EC2-AMIs-01.JPG)
+
+AMI created from EC2 
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/3df521a52baa5e021971f700c8dfedb369a4e29d/Journey/006/Lab-006-EC2-AMIs-02.png)
+
+Web server from EC2 instance created with AMI
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/3df521a52baa5e021971f700c8dfedb369a4e29d/Journey/006/Lab-006-EC2-AMIs-03.JPG)
 
 ## Next Steps
 Day 7
