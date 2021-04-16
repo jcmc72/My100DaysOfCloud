@@ -1,4 +1,4 @@
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/67d5805fe558803726d946297c400d29b12c55c0/Journey/007/Aws-S3-Versioning.jpg)
 
 # DAY 7
 
@@ -28,17 +28,16 @@ https://docs.aws.amazon.com/AmazonS3/latest/userguide/Versioning.html
 * You have successfully uploaded a test file into the Bucket and tested its versioning
 
 Enable object versioning on the bucket
-![alt text]()
-Lab-007-S3-Versioning-01
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/67d5805fe558803726d946297c400d29b12c55c0/Journey/007/Lab-007-S3-Versioning-01.png)
 
 Text file in the S3 Bucket "Version 1"
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/67d5805fe558803726d946297c400d29b12c55c0/Journey/007/Lab-007-S3-Versioning-02.png)
 
 Text file in the S3 Bucket "Version 2"
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/67d5805fe558803726d946297c400d29b12c55c0/Journey/007/Lab-007-S3-Versioning-03.png)
 
 Make public the "Version 1"
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/67d5805fe558803726d946297c400d29b12c55c0/Journey/007/Lab-007-S3-Versioning-04.png)
 
 ## Next Steps
 Day 8
