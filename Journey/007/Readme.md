@@ -3,7 +3,7 @@
 # DAY 7
 
 ## Introduction
-Sixth lab on AWS
+Seventh lab on AWS
 
 ## Prerequisite
 Connect to the AWS console, with administrator user
