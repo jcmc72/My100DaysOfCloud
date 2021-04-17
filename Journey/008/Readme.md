@@ -1,4 +1,4 @@
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/80756b83b9fb260209022ef79525ce85b3b648ee/Journey/008/Aws-S3-Lifecycle-Policy.png)
 
 # DAY 8
 
@@ -28,14 +28,11 @@ https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lifecycle-mgmt.html
 bucket.
 * You have configured the details of a Lifecycle Rule.
 
-Configure 1
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/80756b83b9fb260209022ef79525ce85b3b648ee/Journey/008/Lab-008-S3-Lifecycle-Policy-01.png)
 
-Configure 2
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/80756b83b9fb260209022ef79525ce85b3b648ee/Journey/008/Lab-008-S3-Lifecycle-Policy-02.png)
 
-Configure 3
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/80756b83b9fb260209022ef79525ce85b3b648ee/Journey/008/Lab-008-S3-Lifecycle-Policy-03.png)
 
 ## Next Steps
 Day 9
