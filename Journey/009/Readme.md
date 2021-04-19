@@ -17,12 +17,12 @@ https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication-example-walkth
 ## Try yourself
 ### Steps
 
-1. Login to AWS Management Console.
-2. Create a S3 Source Bucket.
-3. Enable Versioning for source bucket.
-4. Enable Cross Region Replication and add rule for source bucket.
-5. Create a S3 Target Bucket.
-6. Enable Versioning for target bucket.
+1. Login to AWS Management Console
+2. Create a S3 Source Bucket
+3. Enable Versioning for source bucket
+4. Enable Cross Region Replication and add rule for source bucket
+5. Create a S3 Target Bucket
+6. Enable Versioning for target bucket
 
 ## ☁️ Cloud Outcome
 * You have successfully created the S3 Source Bucket
