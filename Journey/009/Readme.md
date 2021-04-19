@@ -1,6 +1,6 @@
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/116f832d6aab2f165ede4cd8ff431fb73d663385/Journey/009/Aws-S3-CRR-and-Versioning.jpg)
 
-# DAY 7
+# DAY 9
 
 ## Introduction
 Nineth lab on AWS
@@ -30,16 +30,16 @@ https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication-example-walkth
 * You have successfully Tested Cross-Region Replication Configuration
 
 Bucket source and get
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/116f832d6aab2f165ede4cd8ff431fb73d663385/Journey/009/Lab-009-S3-CRR-and-Versioning-01.png)
 
 Replication rule in source bucket
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/116f832d6aab2f165ede4cd8ff431fb73d663385/Journey/009/Lab-009-S3-CRR-and-Versioning-02.png)
 
 Text file in the bucket source
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/116f832d6aab2f165ede4cd8ff431fb73d663385/Journey/009/Lab-009-S3-CRR-and-Versioning-03.png)
 
 Verify CRR on bucket get
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/116f832d6aab2f165ede4cd8ff431fb73d663385/Journey/009/Lab-009-S3-CRR-and-Versioning-04.png)
 
 ## Next Steps
 Day 10
