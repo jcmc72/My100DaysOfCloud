@@ -1,6 +1,6 @@
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/570d409e99d0b4a5048de47a9b2d882b0ba97996/Journey/011/Aws-S3-Static-Website.png)
 
-# DAY 8
+# DAY 11
 
 ## Introduction
 Eleventh lab on AWS
@@ -29,13 +29,13 @@ https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html
 * You have successfully tested the error page to make sure it works correctly
 
 S3 configuration static website
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/570d409e99d0b4a5048de47a9b2d882b0ba97996/Journey/011/Lab-011-S3-Static-Website-01.png)
 
 index.html
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/570d409e99d0b4a5048de47a9b2d882b0ba97996/Journey/011/Lab-011-S3-Static-Website-02.png)
 
 error.html
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/570d409e99d0b4a5048de47a9b2d882b0ba97996/Journey/011/Lab-011-S3-Static-Website-03.png)
 
 ## Next Steps
 Day 12
