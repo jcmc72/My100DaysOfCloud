@@ -1,4 +1,4 @@
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/161cd8f8b57580c665fe91834ab7aa774c2b6ac0/Journey/012/Aws-S3-Pre-sign-URL-CloudShell.png)
 
 # DAY 12
 
@@ -30,16 +30,16 @@ https://docs.aws.amazon.com/cloudshell/latest/userguide/tutorial-presigned-url.h
 * You have learned how to create an S3 pre sign URL
 
 File in S2 bucket
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/161cd8f8b57580c665fe91834ab7aa774c2b6ac0/Journey/012/Lab-012-S3-Pre-sign-URL-CloudShell-01.png)
 
 CloudShell
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/161cd8f8b57580c665fe91834ab7aa774c2b6ac0/Journey/012/Lab-012-S3-Pre-sign-URL-CloudShell-02.png)
 
 Object in the S3 bucket share and avalilable on the browser
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/161cd8f8b57580c665fe91834ab7aa774c2b6ac0/Journey/012/Lab-012-S3-Pre-sign-URL-CloudShell-03.PNG)
 
 Object in the S3 bucket share and not avalilable on the browser, later 60 seconds
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/161cd8f8b57580c665fe91834ab7aa774c2b6ac0/Journey/012/Lab-012-S3-Pre-sign-URL-CloudShell-04.PNG)
 
 ## Next Steps
 Day 13
