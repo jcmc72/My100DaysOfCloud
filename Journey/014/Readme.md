@@ -1,4 +1,4 @@
-![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/477ee8ae9b8122f7fb8c010bda49cd3a178914db/Journey/014/Aws-Amazon-CloudFront.png)
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/38ba074c63ce40c32e7dbc9c9603545aeb01d940/Journey/014/Aws-Amazon-CloudFront.png)
 
 # DAY 14
 
