@@ -1,4 +1,4 @@
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/477ee8ae9b8122f7fb8c010bda49cd3a178914db/Journey/014/Aws-Amazon-CloudFront.png)
 
 # DAY 14
 
@@ -33,25 +33,25 @@ This lab walks you through to Amazon CloudFront creation and working. In this la
 * You learned how to configure restrictions based on Geo-location
 
 S3 with folder and image
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/477ee8ae9b8122f7fb8c010bda49cd3a178914db/Journey/014/Lab-014-Amazon-CloudFront-01.png)
 
 S3 with folder /CustomErrors and html files to manage these errors
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/477ee8ae9b8122f7fb8c010bda49cd3a178914db/Journey/014/Lab-014-Amazon-CloudFront-02.png)
 
 S3 content haven't public access
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/477ee8ae9b8122f7fb8c010bda49cd3a178914db/Journey/014/Lab-014-Amazon-CloudFront-03.PNG)
 
 S3 content have public access
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/477ee8ae9b8122f7fb8c010bda49cd3a178914db/Journey/014/Lab-014-Amazon-CloudFront-04.PNG)
 
 S3 content accessed from CloudFront
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/477ee8ae9b8122f7fb8c010bda49cd3a178914db/Journey/014/Lab-014-Amazon-CloudFront-05.PNG)
 
 Error page to manage error 404 
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/477ee8ae9b8122f7fb8c010bda49cd3a178914db/Journey/014/Lab-014-Amazon-CloudFront-06.PNG)
 
 Error page to manage error 403, blocked content in this country
-![alt text]()
+![alt text](https://github.com/jcmc72/My100DaysOfCloud/blob/477ee8ae9b8122f7fb8c010bda49cd3a178914db/Journey/014/Lab-014-Amazon-CloudFront-07.PNG)
 
 ## Next Steps
 Day 15
