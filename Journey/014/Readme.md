@@ -12,7 +12,7 @@ Connect to the AWS console, with administrator user
 This lab walks you through to Amazon CloudFront creation and working. In this lab you will create an Amazon CloudFront distribution. It will distribute a publicly accessible image file stored in an Amazon S3 bucket
 
 ## Cloud Research
-
+https://docs.aws.amazon.com/es_es/AmazonCloudFront/latest/DeveloperGuide/Introduction.html
 
 ## Try yourself
 ### Steps
@@ -60,10 +60,3 @@ Day 15
 :-)
 
 ## 018-Introduction to Amazon CloudFront.pdf
-
-
-## S3 URL
-## https://bck-lab14-test-cloudfront-27042021.s3.amazonaws.com/culture-1536x961.png
-
-## CloudFront
-## d3qjil6dpas77g.cloudfront.net/culture-1536x961.png
